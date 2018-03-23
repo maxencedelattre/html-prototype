@@ -1,0 +1,41 @@
+/**
+ * @package      Template Joomla pour le site web de ###ENTREPRISE###
+ *
+ * @version      1.0.0
+ * @copyright    Copyright (C) 2018 ETD Solutions. All rights reserved.
+ * @license      Apache-2.0
+ * @author       ETD Solutions http://www.etd-solutions.com
+**/
+
+//
+// App
+// ---------------------------------------
+
+// Twitter Bootstrap
+// --------------------------
+@import "bootstrap";
+
+// Fonts
+// --------------------------
+@import "fonts";
+//@import "fontawesome";
+
+// Variables
+// --------------------------
+@import "variables";
+
+// Theme Bootstrap
+// --------------------------
+@import "bootstrap-theme";
+
+// Error
+// --------------------------
+@import "error";
+
+// Offline
+// --------------------------
+@import "offline";
+
+// Base
+// --------------------------
+@import "base";

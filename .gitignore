@@ -11,10 +11,8 @@
 # Only apply this rule to the main repository's gitignore files
 !/.gitignore
 
-# Composer
-composer.phar
-composer
-www/vendor/
+# Yarn
+node_modules
 
 # FA
-www/fonts/*ontawesome*
+fonts/
